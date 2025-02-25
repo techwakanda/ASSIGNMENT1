@@ -16,7 +16,6 @@ efficiency - it helps to optimize developer workflow while maintaining high qual
 Mastering process
 Mastering machine
 
-
 List and briefly explain the phases of the Software Development Life Cycle.
  planning - identify the software requirement or purpose and scope.
  requirement analysis - identify the final user specification. 
